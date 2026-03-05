@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ido/cpp-workspace/projects/cli-tools/baseconv/build",
-  "command": "/usr/bin/c++ -std=gnu++20 -o CMakeFiles/baseconv.dir/main.cpp.o -c /home/ido/cpp-workspace/projects/cli-tools/baseconv/main.cpp",
-  "file": "/home/ido/cpp-workspace/projects/cli-tools/baseconv/main.cpp",
-  "output": "/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/baseconv.dir/main.cpp.o"
-}
-]
