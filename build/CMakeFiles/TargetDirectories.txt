@@ -1,0 +1,7 @@
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/baseconv.dir
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/edit_cache.dir
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/rebuild_cache.dir
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/list_install_components.dir
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/install.dir
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/install/local.dir
+/home/ido/cpp-workspace/projects/cli-tools/baseconv/build/CMakeFiles/install/strip.dir
